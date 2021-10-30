@@ -18,6 +18,11 @@ npm install
 ```shell
 node index.js
    ```
+**Short.**
+   
+   ```shell
+npm install && node index.js
+   ```
    
 Te pedirá ingresar la placa del vehículo y el captcha generado en la carpeta del script (captcha-{context}.jpg), hará la consulta a REPUVE y devolverá la data.
 
